@@ -76,4 +76,4 @@ if st.button("Convert Now 🚀"):
 
 # Footer
 st.markdown("---")
-st.markdown("<p class='footer'>✨ Created by <b style='color:#ff79c6;'>Smart Converter Team</b> with ❤️</p>", unsafe_allow_html=True)
+st.markdown("<p class='footer'>✨ Created by <b style='color:#ff79c6;'>Faizee</b> with ❤️</p>", unsafe_allow_html=True)
